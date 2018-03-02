@@ -1,2 +1,8 @@
-# computersciencefundamentals
-This repo organize my studies from Algorithm and Data Structures for future reference
+# Computer Science Fundamentals Repo
+This repo is to organize my study code on Algorithms and Data Structures for future references.
+
+Structured by
+
+./java/
+./cpp/
+./ruby/
